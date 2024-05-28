@@ -1,2 +1,5 @@
 # osintgram
- 
+requirments: requests 
+instaloader
+
+
